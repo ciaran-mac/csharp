@@ -8,14 +8,14 @@ namespace Questions
     {
         static void Main(string[] args)
         {
-            Phrase("Anaeko Your Trusted Data Partner");
-            RDfromstring("Sample Sentence");
+            m1("Anaeko Your Trusted Data Partner");
+            m2("Sample Sentence");
             Console.ReadLine();
         }
 
 
         // Q.1: 
-        internal static void Phrase(string str)
+        internal static void m1(string str)
         {
 
             Dictionary<char, int> Counts = new Dictionary<char, int>();
@@ -42,7 +42,7 @@ namespace Questions
         }
 
         // Q.2:
-        internal static void RDfromstring(string str)
+        internal static void m2(string str)
         {
 
             string result = string.Empty;
