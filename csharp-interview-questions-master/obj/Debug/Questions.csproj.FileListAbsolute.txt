@@ -1,0 +1,11 @@
+c:\users\ankit sharma\documents\visual studio 2015\Projects\Questions\Questions\bin\Debug\Questions.exe
+c:\users\ankit sharma\documents\visual studio 2015\Projects\Questions\Questions\bin\Debug\Questions.pdb
+c:\users\ankit sharma\documents\visual studio 2015\Projects\Questions\Questions\obj\Debug\Questions.csprojResolveAssemblyReference.cache
+c:\users\ankit sharma\documents\visual studio 2015\Projects\Questions\Questions\obj\Debug\Questions.exe
+c:\users\ankit sharma\documents\visual studio 2015\Projects\Questions\Questions\obj\Debug\Questions.pdb
+C:\Users\anaekoAdmin\Downloads\csharp-interview-questions-master\bin\Debug\Questions.exe
+C:\Users\anaekoAdmin\Downloads\csharp-interview-questions-master\bin\Debug\Questions.pdb
+C:\Users\anaekoAdmin\Downloads\csharp-interview-questions-master\obj\Debug\Questions.csprojAssemblyReference.cache
+C:\Users\anaekoAdmin\Downloads\csharp-interview-questions-master\obj\Debug\Questions.csproj.CoreCompileInputs.cache
+C:\Users\anaekoAdmin\Downloads\csharp-interview-questions-master\obj\Debug\Questions.exe
+C:\Users\anaekoAdmin\Downloads\csharp-interview-questions-master\obj\Debug\Questions.pdb
