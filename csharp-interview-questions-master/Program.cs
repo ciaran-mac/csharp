@@ -20,24 +20,24 @@ namespace Questions
 
             Dictionary<char, int> Counts = new Dictionary<char, int>();
 
-            foreach (var character in str)
+            foreach (var let in str)
             {
-                if (character != ' ')
+                if (let != ' ')
                 {
-                    if (!Counts.ContainsKey(character))
+                    if (!Counts.ContainsKey(let))
                     {
-                        Counts.Add(character, 1);
+                        Counts.Add(let, 1);
                     }
                     else
                     {
-                        Counts[character]++;
+                        Counts[let]++;
                     }
                 }
 
             }
-            foreach (var character in Counts)
+            foreach (var let in Counts)
             {
-                Console.WriteLine("{0} - {1}", character.Key, character.Value);
+                Console.WriteLine("{0} - {1}",let.Key, let.Value);
             }
         }
 
